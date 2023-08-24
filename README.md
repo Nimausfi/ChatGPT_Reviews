@@ -26,8 +26,8 @@ In this project, the following series of models/architectures will be applied, w
 - Model 1: Feed-Forward Neural Network (FNN)
 - Model 2: Long Short-Term Memory (LSTM)
 - Model 3: Gated Recurrent Unit (GRU)
-- Model 4: Bidirectional-LSTM
-- Model 5: 1D Convolutional Neural Network
+- Model 4: Bidirectional-LSTM (BiLSTM)
+- Model 5: 1D Convolutional Neural Network (Conv1D)
 - Model 6: TensorFlow Hub Pretrained Feature Extractor
 
 <br />
