@@ -20,14 +20,14 @@ Random oversampling was used in order to tackle the issue of imbalanced data, th
 
 In this project, the following series of models/architectures will be applied, we'll then compare the results of each model and see which one performed best:
 
-- Model 0: Naive Bayes - Baseline
-- Model 1: Feed-Forward Neural Network (FNN)
-- Model 2: Long Short-Term Memory (LSTM)
-- Model 3: Gated Recurrent Unit (GRU)
-- Model 4: Bidirectional-LSTM (BiLSTM)
-- Model 5: 1D Convolutional Neural Network (Conv1D)
-- Model 6: Transposed Convolution Layer (Conv1DTranspose)
-- Model 7: TensorFlow Hub Pretrained Feature Extractor
+- **Model 0:** Naive Bayes - Baseline
+- **Model 1:** Feed-Forward Neural Network (FNN)
+- **Model 2:** Long Short-Term Memory (LSTM)
+- **Model 3:** Gated Recurrent Unit (GRU)
+- **Model 4:** Bidirectional-LSTM (BiLSTM)
+- **Model 5:** 1D Convolutional Neural Network (Conv1D)
+- **Model 6:** Transposed Convolution Layer (Conv1DTranspose)
+- **Model 7:** TensorFlow Hub Pretrained Feature Extractor
 
 ## **Performance Evaluation**
 
